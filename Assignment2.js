@@ -21,8 +21,4 @@ function isArray (arr) {
 }
 
 
-var f = flow([function(){
-    console.log(1111);
-}, function() {
-    console.log(22222);
-}])
+
